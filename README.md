@@ -38,4 +38,4 @@ To run this project, you only need Python installed on your system. The `turtle`
    cd moroccan-flag-python
 2. **Run the script:**
  ```bash
-python moroccan_flag.py   
+python morocco.py   
